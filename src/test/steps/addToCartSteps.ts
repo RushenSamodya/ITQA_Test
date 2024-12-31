@@ -5,6 +5,7 @@ import { PageFixtures } from '../../hooks/pageFixtures';
 setDefaultTimeout(60 * 1000 *2);
 
 Given('user search for a {string}', async function (book) {
+    await PageFixtures.logger.info("Searching for book: ", book);
     await PageFixtures.page.waitForTimeout(2000);
     await PageFixtures.page.locator("input[type='search']").fill(book);
     await PageFixtures.page.waitForTimeout(2000);

@@ -2,6 +2,10 @@
     "compilerOptions": {
       "module": "CommonJS", // or "ESNext" for ES Module support
       "target": "ES2020", // Adjust to the version of JavaScript you need
-      "esModuleInterop": true
+      "esModuleInterop": true,
+      "typeRoots": [
+            "./node_modules/@types",
+            "src/helper/types"
+        ],
     }
 }

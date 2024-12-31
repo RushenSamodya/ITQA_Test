@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 843209899
+              "duration": 390411200
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 4315209100
+              "duration": 4564511500
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 101197999
+              "duration": 78947000
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 335770400
+              "duration": 329277499
             }
           },
           {
@@ -66,7 +66,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 23948699
+              "duration": 23678300
             }
           },
           {
@@ -79,7 +79,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 104497500
+              "duration": 85170199
             }
           },
           {
@@ -92,7 +92,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 6124638300
+              "duration": 6125476500
             }
           },
           {
@@ -101,11 +101,11 @@
             "line": 12,
             "name": "user add the book to the cart",
             "match": {
-              "location": "src\\test\\steps\\addToCartSteps.ts:15"
+              "location": "src\\test\\steps\\addToCartSteps.ts:16"
             },
             "result": {
               "status": "passed",
-              "duration": 2042361699
+              "duration": 2053669500
             }
           },
           {
@@ -114,11 +114,11 @@
             "line": 13,
             "name": "the cart badge should get updated",
             "match": {
-              "location": "src\\test\\steps\\addToCartSteps.ts:20"
+              "location": "src\\test\\steps\\addToCartSteps.ts:21"
             },
             "result": {
               "status": "passed",
-              "duration": 4028929100
+              "duration": 4038852099
             }
           },
           {
@@ -126,7 +126,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 58732999
+              "duration": 276383800
             }
           }
         ],
@@ -145,7 +145,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 458007099
+              "duration": 185045599
             }
           },
           {
@@ -158,7 +158,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 4114740499
+              "duration": 4221815500
             }
           },
           {
@@ -171,7 +171,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 92608599
+              "duration": 81234699
             }
           },
           {
@@ -184,7 +184,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 331806699
+              "duration": 347311000
             }
           },
           {
@@ -197,7 +197,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 20384700
+              "duration": 18755499
             }
           },
           {
@@ -210,7 +210,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 55206599
+              "duration": 52972599
             }
           },
           {
@@ -223,7 +223,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 6103863600
+              "duration": 6091785399
             }
           },
           {
@@ -232,11 +232,11 @@
             "line": 12,
             "name": "user add the book to the cart",
             "match": {
-              "location": "src\\test\\steps\\addToCartSteps.ts:15"
+              "location": "src\\test\\steps\\addToCartSteps.ts:16"
             },
             "result": {
               "status": "passed",
-              "duration": 2040174300
+              "duration": 2036166099
             }
           },
           {
@@ -245,11 +245,11 @@
             "line": 13,
             "name": "the cart badge should get updated",
             "match": {
-              "location": "src\\test\\steps\\addToCartSteps.ts:20"
+              "location": "src\\test\\steps\\addToCartSteps.ts:21"
             },
             "result": {
               "status": "passed",
-              "duration": 4020775099
+              "duration": 4029414700
             }
           },
           {
@@ -257,7 +257,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 51223599
+              "duration": 247409399
             }
           }
         ],

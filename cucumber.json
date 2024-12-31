@@ -19,7 +19,6 @@
             "progress-bar",
             "rerun:@rerun.txt"
         ],
-        "parallel": 2,
         "dryRun": false
     },
     "rerun": {
